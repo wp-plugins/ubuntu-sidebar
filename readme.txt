@@ -25,18 +25,18 @@ On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/2012/03/ubuntu-sideba
 
 == Installation ==
 
-1) Upload folder "ubuntu-sidebar" in Wordpress plugin directory (.../wp-content/plugins/).
-2) Activate the plugin through the 'Plugins' menu in WordPress.
-3) Find the 'Ubuntu Sidebar' menu under the Settings panel.
-3) Input Ubuntu network links in the Link fields 
+1. Upload folder "ubuntu-sidebar" in Wordpress plugin directory (.../wp-content/plugins/).
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. Find the 'Ubuntu Sidebar' menu under the Settings panel.
+4. Input Ubuntu network links in the Link fields 
 	eg.		Ubuntu Link: http://www.ubuntu.com
 			Ubuntu LoCo Link: http://loco.ubuntu.com
 			Why use Ubuntu Link: http://www.ubuntu.com/ubuntu/why-use-ubuntu
 			Download Ubuntu Link: http://www.ubuntu.com/download
 			Get Ubuntu CD/DVD Link: http://shop.canonical.com/index.php?cPath=17
 	and if you like specify custom images intup link to images, otherwise the defaults images will be used.
-4) Click on Save.
-5) Your done!
+5. Click on Save.
+6. Your done!
 
 == Frequently Asked Questions ==
 
