@@ -34,7 +34,7 @@ On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/2012/03/ubuntu-sideba
 			Why use Ubuntu Link: http://www.ubuntu.com/ubuntu/why-use-ubuntu
 			Download Ubuntu Link: http://www.ubuntu.com/download
 			Get Ubuntu CD/DVD Link: http://shop.canonical.com/index.php?cPath=17
-	and if you like specify custom images intup link to images, otherwise the defaults images will be used.
+	and if you like specify custom images input link to images, otherwise the defaults images will be used.
 5. Click on Save.
 6. Your done!
 
