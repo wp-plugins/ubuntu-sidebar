@@ -19,23 +19,23 @@
       var settings = {
 		'top'        : '100px',
         'ubuntu-com'         : {
-			'link': 'http://www.ubuntu.com',
+			'link': '',
 			'image': IMAGE_BASE + 'ubuntu-com.png'
 		},
         'ubuntu-loco'         : {
-			'link': 'http://loco.ubuntu.com',
+			'link': '',
 			'image': IMAGE_BASE + 'ubuntu-loco.png'
 		},
         'why-ubuntu'         : {
-			'link': 'http://www.ubuntu.com/ubuntu/why-use-ubuntu',
+			'link': '',
 			'image': IMAGE_BASE + 'why-ubuntu.png'
 		},
 		'download-ubuntu'         : {
-			'link': 'http://www.ubuntu.com/download',
+			'link': '',
 			'image': IMAGE_BASE + 'download-ubuntu.png'
 		},
 		'ubuntu-dvd'         : {
-			'link': 'http://shop.canonical.com/index.php?cPath=17',
+			'link': '',
 			'image': IMAGE_BASE + 'ubuntu-dvd.png'
 		},
 		'public': 1
