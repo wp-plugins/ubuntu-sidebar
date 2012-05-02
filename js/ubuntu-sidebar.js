@@ -1,7 +1,7 @@
 /**
  * @author Zeljko Popivoda.
  *
- * Version 0.3
+ * Version 0.4
  * Copyright (c) 2012	 Zeljko Popivoda
  *
  * License:
@@ -18,23 +18,27 @@
       IMAGE_BASE = '/wp-content/plugins/ubuntu-sidebar/images/';
       var settings = {
 		'top'        : '100px',
-        'ubuntu-com'         : {
+        'ubuntu-com': {
 			'link': '',
 			'image': IMAGE_BASE + 'ubuntu-com.png'
 		},
-        'ubuntu-loco'         : {
+        'ubuntu-loco': {
 			'link': '',
 			'image': IMAGE_BASE + 'ubuntu-loco.png'
 		},
-        'why-ubuntu'         : {
+        'why-ubuntu': {
 			'link': '',
 			'image': IMAGE_BASE + 'why-ubuntu.png'
 		},
-		'download-ubuntu'         : {
+		'ubuntu-tour': {
+			'link': '',
+			'image': IMAGE_BASE + 'ubuntu-tour.png'
+		},
+		'download-ubuntu': {
 			'link': '',
 			'image': IMAGE_BASE + 'download-ubuntu.png'
 		},
-		'ubuntu-dvd'         : {
+		'ubuntu-dvd': {
 			'link': '',
 			'image': IMAGE_BASE + 'ubuntu-dvd.png'
 		},
@@ -56,6 +60,9 @@
 		if( settings['why-ubuntu']['link'] != ""){
 			sidebar.append("<div class='socialNetwork'><a target='_blank' title='Why use Ubuntu' href='" + settings['why-ubuntu']['link'] + "'><img style='z-index: 10000;' src='" + settings['why-ubuntu']['image'] + "' /></a></div>");
 		}		
+		if( settings['ubuntu-tour']['link'] != ""){
+			sidebar.append("<div class='socialNetwork'><a target='_blank' title='Ubuntu online tour' href='" + settings['ubuntu-tour']['link'] + "'><img style='z-index: 10000;' src='" + settings['ubuntu-tour']['image'] + "' /></a></div>");
+		}	
 		if( settings['download-ubuntu']['link'] != ""){
 			sidebar.append("<div class='socialNetwork'><a target='_blank' title='Download Ubuntu' href='" + settings['download-ubuntu']['link'] + "'><img style='z-index: 10000;' src='" + settings['download-ubuntu']['image'] + "' /></a></div>");
 		}		
