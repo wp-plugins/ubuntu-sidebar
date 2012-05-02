@@ -1,7 +1,7 @@
 /**
  * @author Zeljko Popivoda.
  *
- * Version 0.3
+ * Version 0.4
  * Copyright (c) 2012	 Zeljko Popivoda
  *
  * License:
