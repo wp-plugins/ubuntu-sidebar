@@ -102,6 +102,7 @@ function ubuntusidebar_options() {
   echo '<div class="wrap">';
     echo '<h2>Ubuntu Sidebar</h2>';
 ?>
+<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/flick/jquery-ui.css" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 jQuery(document).ready(function($){
 	$("#tabs").tabs();
