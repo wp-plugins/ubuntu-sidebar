@@ -70,6 +70,3 @@ If you have any questions, ask them on [Zeljko Popivoda](http://zeljko.popivoda.
 
 = 0.4 =
 New, fresh version.
-
-= 0.3 =
-New, fresh version.
