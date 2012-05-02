@@ -8,7 +8,7 @@ Plugin Name: Ubuntu Sidebar
 Plugin URI: http://wordpress.org/extend/plugins/ubuntu-sidebar
 Description: Add Ubuntu media buttons to the right side of your website with style and ease.
 Author: Zeljko Popivoda
-Version: 0.3
+Version: 0.4
 Author URI: http://zeljko.popivoda.com
 */
 /*  Copyright 2012  Zeljko Popivoda  (email : zh.popivoda@gmail.com)
