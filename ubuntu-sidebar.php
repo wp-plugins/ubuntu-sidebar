@@ -76,6 +76,12 @@ echo "
 				}
                echo "'link': '". get_option("why-ubuntu_link"). "'
             },
+			'ubuntu-tour': {";
+				if(  get_option("ubuntu-tour_image") ){
+					echo "'image': '". get_option("ubuntu-tour_image"). "',";
+				}
+               echo "'link': '". get_option("ubuntu-tour_link"). "'
+            },
 			'download-ubuntu': {";
 				if(  get_option("download-ubuntu_image") ){
 					echo "'image': '". get_option("download-ubuntu_image"). "',";
@@ -102,6 +108,7 @@ function ubuntusidebar_options() {
   echo '<div class="wrap">';
     echo '<h2>Ubuntu Sidebar</h2>';
 ?>
+<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/flick/jquery-ui.css" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 jQuery(document).ready(function($){
 	$("#tabs").tabs();
@@ -170,6 +177,14 @@ echo '<tr valign="top">
 <td><input style="width: 400px;" type="text" name="why-ubuntu_image" value="' . get_option('why-ubuntu_image') .'" /></td>
 </tr>'; 
 echo '<tr valign="top">
+<th scope="row">Ubuntu online tour <strong>Link</strong>:</th>
+<td><input style="width: 400px;" type="text" name="ubuntu-tour_link" value="' . get_option('ubuntu-tour_link') .'" /></td>
+</tr>'; 
+echo '<tr valign="top">
+<th scope="row">Ubuntu online tour Image (optional):</th>
+<td><input style="width: 400px;" type="text" name="ubuntu-tour_image" value="' . get_option('ubuntu-tour_image') .'" /></td>
+</tr>'; 
+echo '<tr valign="top">
 <th scope="row">Download Ubuntu <strong>Link</strong>:</th>
 <td><input style="width: 400px;" type="text" name="download-ubuntu_link" value="' . get_option('download-ubuntu_link') .'" /></td>
 </tr>'; 
@@ -203,7 +218,7 @@ echo '</table>';
   <?php
   
 echo '<input type="hidden" name="action" value="update" />';
-echo '<input type="hidden" name="page_options" value="ubuntu-com_link,ubuntu-com_image,ubuntu-loco_link,ubuntu-loco_image,why-ubuntu_link,why-ubuntu_image,download-ubuntu_link,download-ubuntu_image,ubuntu-dvd_link,ubuntu-dvd_image,social_offset,publica" />';
+echo '<input type="hidden" name="page_options" value="ubuntu-com_link,ubuntu-com_image,ubuntu-loco_link,ubuntu-loco_image,why-ubuntu_link,why-ubuntu_image,ubuntu-tour_link,ubuntu-tour_image,download-ubuntu_link,download-ubuntu_image,ubuntu-dvd_link,ubuntu-dvd_image,social_offset,publica" />';
   echo '</div>';
 echo '
 </form>
