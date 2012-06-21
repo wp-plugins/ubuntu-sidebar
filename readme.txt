@@ -1,6 +1,6 @@
 === Ubuntu sidebar ===
 Contributors: zpop
-Donate link: http://zeljko.popivoda.com/2011/12/donacije
+Donate link: http://zeljko.popivoda.com/donacije
 Tags: ubuntu, share, spread, spreadubuntu
 Requires at least: 2.0.2
 Tested up to: 3.3.1
