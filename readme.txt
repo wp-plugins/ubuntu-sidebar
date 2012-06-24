@@ -1,7 +1,7 @@
 === Ubuntu sidebar ===
 Contributors: zpop
 Donate link: http://zeljko.popivoda.com/donacije
-Tags: ubuntu, share, spread, spreadubuntu
+Tags: ubuntu, share, spread, spreadubuntu, sidebar
 Requires at least: 2.0.2
 Tested up to: 3.3.1
 Stable tag: 0.4
@@ -22,6 +22,10 @@ The plugin is custimizable and lets you change the icons if you have fancier one
 How Ubuntu sidebar looks see at [Zeljko Popivoda](http://zeljko.popivoda.com) blog.
 
 On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/2012/03/ubuntu-sidebar-wordpress-plugin) blog plugin page.
+
+My other plugins:
+* [Ubuntu sidebar lite](http://wordpress.org/extend/plugins/ubuntu-sidebar-lite/)
+* [Ubuntu ribbon](http://wordpress.org/extend/plugins/ubuntu-ribbon/)
 
 == Installation ==
 
