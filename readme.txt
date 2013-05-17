@@ -1,6 +1,6 @@
 === Ubuntu sidebar ===
 Contributors: zpop
-Donate link: http://zeljko.popivoda.com/donacije
+Donate link: http://zeljko.popivoda.com
 Tags: ubuntu, share, spread, spreadubuntu, sidebar
 Requires at least: 2.0.2
 Tested up to: 3.3.1
@@ -19,9 +19,9 @@ Plugin add Ubuntu media buttons to the right side of your website with style and
 
 The plugin is custimizable and lets you change the icons if you have fancier ones.
 
-How Ubuntu sidebar looks see at [Zeljko Popivoda](http://zeljko.popivoda.com) blog.
+How Ubuntu sidebar looks see at [ZPop](http://zpop.site90.net/blog/ubuntu-sidebar/) blog.
 
-On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/2012/03/ubuntu-sidebar-wordpress-plugin) blog plugin page.
+On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/ubuntu-sidebar-wordpress-plugin) blog plugin page.
 
 My other plugins:
 * [Ubuntu sidebar lite](http://wordpress.org/extend/plugins/ubuntu-sidebar-lite/)
@@ -44,7 +44,7 @@ My other plugins:
 
 == Frequently Asked Questions ==
 
-If you have any questions, ask them on [Zeljko Popivoda](http://zeljko.popivoda.com/2012/03/ubuntu-sidebar-wordpress-plugin) blog plugin page.
+If you have any questions, ask them on [Zeljko Popivoda](http://zeljko.popivoda.com/ubuntu-sidebar-wordpress-plugin) blog plugin page.
 
 == Screenshots ==
 
