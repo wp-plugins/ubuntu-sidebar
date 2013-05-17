@@ -1,6 +1,6 @@
 === Ubuntu sidebar ===
 Contributors: zpop
-Donate link: http://zeljko.popivoda.com/donacije
+Donate link: http://zeljko.popivoda.com
 Tags: ubuntu, share, spread, spreadubuntu, sidebar
 Requires at least: 2.0.2
 Tested up to: 3.3.1
@@ -19,13 +19,16 @@ Plugin add Ubuntu media buttons to the right side of your website with style and
 
 The plugin is custimizable and lets you change the icons if you have fancier ones.
 
-How Ubuntu sidebar looks see at [Zeljko Popivoda](http://zeljko.popivoda.com) blog.
+How Ubuntu sidebar looks see at [ZPop](http://zpop.site90.net/blog/ubuntu-sidebar/) blog.
 
-On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/2012/03/ubuntu-sidebar-wordpress-plugin) blog plugin page.
+On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/ubuntu-sidebar-wordpress-plugin) blog plugin page.
 
 My other plugins:
 * [Ubuntu sidebar lite](http://wordpress.org/extend/plugins/ubuntu-sidebar-lite/)
 * [Ubuntu ribbon](http://wordpress.org/extend/plugins/ubuntu-ribbon/)
+* [Debian sidebar](http://wordpress.org/extend/plugins/debian-sidebar/)
+* [Debian sidebar lite](http://wordpress.org/extend/plugins/debian-sidebar-lite/)
+* [Debian ribbon](http://wordpress.org/extend/plugins/debian-ribbon/)
 
 == Installation ==
 
@@ -39,13 +42,20 @@ My other plugins:
 		- Ubuntu online tour: http://www.ubuntu.com/tour<br>
 		- Download Ubuntu Link: http://www.ubuntu.com/download<br>
 		- Get Ubuntu CD/DVD Link: http://shop.canonical.com/index.php?cPath=17<br>
+5. Input Ubuntu images links in the Image Link fields, e.g.:<br>
+		- Ubuntu Image Link: wp-content/plugins/ubuntu-sidebar/images/ubuntu-com.png<br>
+		- Ubuntu LoCo Image Link: wp-content/plugins/ubuntu-sidebar/images/ubuntu-loco.png<br>
+		- Why use Ubuntu Image Link: wp-content/plugins/ubuntu-sidebar/images/why-ubuntu.png<br>
+		- Ubuntu online tour Image Link: wp-content/plugins/ubuntu-sidebar/images/ubuntu-tour.png<br>
+		- Download Ubuntu Image Link: wp-content/plugins/ubuntu-sidebar/images/download-ubuntu.png<br>
+		- Get Ubuntu CD/DVD Image Link: wp-content/plugins/ubuntu-sidebar/images/ubuntu-dvd.png<br>
 	and if you like specify custom images input link to images, otherwise the defaults images will be used.
-5. Click on Save.
-6. Your done!
+6. Click on Save.
+7. Your done!
 
 == Frequently Asked Questions ==
 
-If you have any questions, ask them on [Zeljko Popivoda](http://zeljko.popivoda.com/2012/03/ubuntu-sidebar-wordpress-plugin) blog plugin page.
+If you have any questions, ask them on [Zeljko Popivoda](http://zeljko.popivoda.com/ubuntu-sidebar-wordpress-plugin) blog plugin page.
 
 == Screenshots ==
 
