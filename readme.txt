@@ -1,7 +1,7 @@
 === Ubuntu sidebar ===
 Contributors: zpop
 Donate link: http://zeljko.popivoda.com
-Tags: ubuntu, share, spread, spreadubuntu, sidebar
+Tags: linux, ubuntu, spreadubuntu, sidebar
 Requires at least: 2.0.2
 Tested up to: 3.3.1
 Stable tag: 0.3
