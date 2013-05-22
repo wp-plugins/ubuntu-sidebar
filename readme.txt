@@ -13,7 +13,7 @@ A Ubuntu menu for your website, simple to install and setup, shows Ubuntu networ
 
 Ubuntu sidebar is made to promote Ubuntu.
 
-Parts of code from [Social sidebar](http://wordpress.org/extend/plugins/social-sidebar) and logo from [Ubuntu pictogram](http://design.ubuntu.com/downloads?metadata=element-pictogram) are used for make Ubuntu sidebar.
+Parts of code from [Social sidebar](http://wordpress.org/plugins/social-sidebar) and logo from [Ubuntu pictogram](http://design.ubuntu.com/downloads?metadata=element-pictogram) are used for make Ubuntu sidebar.
 
 Plugin add Ubuntu media buttons to the right side of your website with style and ease.
 
@@ -24,8 +24,9 @@ How Ubuntu sidebar looks see at [ZPop](http://zpop.site90.net/blog/ubuntu-sideba
 On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/ubuntu-sidebar-wordpress-plugin) blog plugin page.
 
 My other plugins:
-* [Ubuntu sidebar lite](http://wordpress.org/extend/plugins/ubuntu-sidebar-lite/)
-* [Ubuntu ribbon](http://wordpress.org/extend/plugins/ubuntu-ribbon/)
+
+* [Ubuntu sidebar lite](http://wordpress.org/plugins/ubuntu-sidebar-lite/)
+* [Ubuntu ribbon](http://wordpress.org/plugins/ubuntu-ribbon/)
 
 == Installation ==
 
