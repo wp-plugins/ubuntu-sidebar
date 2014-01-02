@@ -1,6 +1,6 @@
 === Ubuntu sidebar ===
 Contributors: zpop
-Donate link: http://zeljko.popivoda.com
+Donate link: http://zeljko.popivoda.com/donacije
 Tags: linux, ubuntu, spreadubuntu, sidebar
 Requires at least: 2.0.2
 Tested up to: 3.3.1
@@ -21,12 +21,15 @@ The plugin is custimizable and lets you change the icons if you have fancier one
 
 How Ubuntu sidebar looks see at [ZPop](http://zpop.site90.net/blog/ubuntu-sidebar/) blog.
 
-On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/ubuntu-sidebar-wordpress-plugin) blog plugin page.
+In serbian at [Željko Popivoda](http://zeljko.popivoda.com/ubuntu-sidebar-wordpress-plugin) blog plugin page.
 
 My other plugins:
 
 * [Ubuntu sidebar lite](http://wordpress.org/plugins/ubuntu-sidebar-lite/)
 * [Ubuntu ribbon](http://wordpress.org/plugins/ubuntu-ribbon/)
+* [Debian sidebar](http://wordpress.org/plugins/debian-sidebar/)
+* [Debian sidebar lite](http://wordpress.org/plugins/debian-sidebar-lite/)
+* [Debian ribbon](http://wordpress.org/plugins/debian-ribbon/)
 
 == Installation ==
 
@@ -45,7 +48,7 @@ My other plugins:
 
 == Frequently Asked Questions ==
 
-If you have any questions, ask them on [Zeljko Popivoda](http://zeljko.popivoda.com/ubuntu-sidebar-wordpress-plugin) blog plugin page.
+If you have any questions, ask them on [Željko Popivoda](http://zeljko.popivoda.com/ubuntu-sidebar-wordpress-plugin) blog plugin page.
 
 == Screenshots ==
 
