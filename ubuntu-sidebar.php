@@ -138,15 +138,15 @@ jQuery(document).ready(function($){
 	<br />
 	<b>Ubuntu sidebar Documentation</b>
 	<ul>
-	<li><a href="http://zeljko.popivoda.com/2012/03/ubuntu-sidebar-wordpress-plugin" target="_blank">Ubuntu sidebar - Zeljko Popivoda blog</a></li>
+	<li><a href="http://zeljko.popivoda.com/ubuntu-sidebar-wordpress-plugin" target="_blank">Ubuntu sidebar - Zeljko Popivoda blog</a></li>
 	<li><a href="http://spreadubuntu.org/sr/node/792" target="_blank">Ubuntu sidebar - Spread Ubuntu</a></li>
-	<li><a href="http://wordpress.org/extend/plugins/ubuntu-sidebar" target="_blank">Ubuntu sidebar - Wordpress plugins</a></li>
+	<li><a href="http://wordpress.org/plugins/ubuntu-sidebar" target="_blank">Ubuntu sidebar - Wordpress plugins</a></li>
 	</ul>
 	<br />
 	<br />
 	<b>Documentation of Social sidebar</b>
 	<ul>
-	<li><a href="http://wordpress.org/extend/plugins/social-sidebar" target="_blank">Social sidebar - Wordpress plugin homepage</a></li>
+	<li><a href="http://wordpress.org/plugins/social-sidebar" target="_blank">Social sidebar - Wordpress plugin homepage</a></li>
 	<li><a href="http://github.com/thomasdavis/Wordpress-Social-Sidebar" target="_blank">Social sidebar - GitHub Repository</a></li>
 	</ul>
 </div>
