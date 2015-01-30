@@ -25,6 +25,8 @@ My other plugins:
 
 * [Ubuntu sidebar lite](http://wordpress.org/plugins/ubuntu-sidebar-lite/)
 * [Ubuntu ribbon](http://wordpress.org/plugins/ubuntu-ribbon/)
+* [Lubuntu ribbon](http://wordpress.org/plugins/lubuntu-ribbon/)
+* [Lubuntu sidebar lite](http://wordpress.org/plugins/lubuntu-sidebar-lite/)
 * [Debian sidebar](http://wordpress.org/plugins/debian-sidebar/)
 * [Debian sidebar lite](http://wordpress.org/plugins/debian-sidebar-lite/)
 * [Debian ribbon](http://wordpress.org/plugins/debian-ribbon/)
